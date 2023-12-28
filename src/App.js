@@ -58,3 +58,10 @@ export default function App() {
     return form;
   }
 }
+
+<p>
+  <a href="https://github.com/LangaaN/weather-react-app/tree/master">
+    Open source code
+  </a>{" "}
+  by Nomalanga Ndlovu{" "}
+</p>;
